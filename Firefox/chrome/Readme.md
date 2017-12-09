@@ -1,3 +1,3 @@
 # How to use
 In order to install themes from the Firefox folder, simply open Firefox, go to about:profiles, open the root directory, and apply any changes you want inside that folder. Note that each folder found within the Firefox folder of this git correspond to which folder they belong within the root directory.
-Each file has a comment at the top saying what it must be renamed to in order to apply it. All files must be found in the Chrome folder of the root directory to function.
+Each file has a comment at the top saying what it must be renamed to in order to apply it. All files must be found in the Chrome folder of the root directory to function. Any files that must be renamed to the same as another file must be combined. In order to do so, simply copy+paste the css at the bottom.
