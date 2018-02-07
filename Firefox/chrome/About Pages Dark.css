@@ -98,6 +98,3 @@ url(about:home) {
 	treechildren::-moz-tree-cell-text { color: #fff !important; }
 	treechildren::-moz-tree-cell-text(selected) { color: maroon !important; }
 	}
-	#snippets-container {
-    background: #444444 !important;
-	}
