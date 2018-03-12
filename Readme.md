@@ -6,6 +6,8 @@ Personal Cascase Style Sheets Library for use in Stylus and Firefox.
 
 [Google Classroom Dark](https://userstyles.org/styles/154749/google-classroom-dark)
 
+[Primavera Dark (Beta)](https://userstyles.org/styles/156965/primavera-dark-beta)
+
 ## How to use
 All userstyles themes may be used via [Stylus](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiR882g1f3XAhUQ3mMKHUv9BzkQFggmMAA&url=https%3A%2F%2Faddons.mozilla.org%2Fen-US%2Ffirefox%2Faddon%2Fstyl-us%2F&usg=AOvVaw18flDCoRX0_lteO64rZeYi) or [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/).
 
