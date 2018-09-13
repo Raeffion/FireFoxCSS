@@ -1,0 +1,249 @@
+@-moz-document domain("aaonline.io") {
+/*START Header*/
+.header nav {
+    background: #980000;
+}
+.header {
+    background: #111;
+}
+.header nav > .header-nav a.selected {
+    color: #eee;
+    background: #500;
+}
+.profile-container .profile-image {
+    color: #aaa;
+}
+.profile-stats {
+    background: #333;
+}
+.profile-container {
+    background: #222;
+}
+.task-scroll {
+    background: none;
+}
+
+
+/*START Sidebar*/
+.sidebar {
+    background: #333;
+}
+.course-selector {
+    background: #222;
+}
+.task-nav-topic.task-nav-topic--expanded header {
+    color: #fff;
+    background: #191919;
+}
+.task-nav-topic .accordian.expanded {
+    border-bottom: 1px solid #111;
+}
+.task-nav {
+    color: #ddd;
+    border-top: 1px solid #111;
+}
+.task-nav-topic .accordian {
+    background: #222;
+    border-top: 1px solid #111;
+}
+
+
+
+/*START Task*/
+.task-canvas {
+    background: #333;
+}
+body {
+    color: #fff;
+}
+
+
+
+
+/*START Footer*/
+.complete-footer {
+    background: #222;
+}
+.complete-footer .complete-footer-text {
+    background: #222;
+}
+.complete-footer .complete-footer-text > small {
+    color: #ddd;
+}
+}
+
+@-moz-document domain("aaonline.io") {
+.modal {
+    background: #222;
+}
+.modal-container {
+    color: #ddd;
+}
+.PracticeProblem__instructionsPanel {
+    background: #222;
+}
+code {
+    background-color: #53533e;
+    border: 1px solid #6f6f25;
+}
+}
+
+@-moz-document url-prefix("https://forum.appacademy.io/") {
+.d-header .title a, .d-header .title a:visited {
+    color: #fff;
+}
+.d-header {
+    background-color: #222;
+}
+body {
+    background-color: #333;
+    color: #fff;
+}
+html {
+    color: #fff;
+    background-color: #333;
+}
+.topic-map .buttons .btn {
+    color: #919191;
+    background: #333;
+    border-left: 1px solid #222;
+}
+blockquote {
+    border-left: 5px solid #111;
+    background-color: #222;
+}
+aside.quote .title {
+    border-left: 5px solid #111;
+    background-color: #222;
+    color: #646464;
+}
+a.mention,
+a.mention-group {
+    color: #ddd;
+    background: #444;
+}
+kbd {
+    background-color: #333;
+    border: 1px solid #111;
+    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.2), 0 0 0 1px #111 inset;
+    background: #222;
+    border: 1px solid #111;
+    border-bottom-color: rgb(17, 17, 17);
+    border-bottom: medium none #111;
+    color: #fff;
+}
+#simple-container {
+    background-color: #222;
+}
+.menu-panel {
+    border: 1px solid #111;
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.15);
+    background-color: #222;
+}
+.drop-down-mode .d-header-icons .active .icon {
+    color: #7b7b7b;
+    background-color: #333;
+    border-top: 1px solid #292929;
+    border-left: 1px solid #292929;
+    border-right: 1px solid #292929;
+}
+.search-menu input[type="text"],
+input[type="password"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="date"],
+input[type="month"],
+input[type="time"],
+input[type="week"],
+input[type="number"],
+input[type="email"],
+input[type="url"],
+input[type="search"],
+input[type="tel"],
+input[type="color"] {
+    color: #aaa;
+    background-color: #222;
+    border: 1px solid #333;
+}
+.user-menu .notifications .read {
+    background-color: #333;
+}
+.user-menu .notifications li span {
+    color: #aaa;
+}
+.topic-map .participants .user {
+    border: 1px solid #222;
+}
+.topic-map .participants .user .user-link,
+.topic-map .participants .user .group-link {
+    color: #aaa;
+}
+.topic-map {
+    background: #333;
+    border: 1px solid #222;
+    border-top-color: rgb(34, 34, 34);
+}
+.topic-map section {
+    border-top: 1px solid #222;
+}
+.btn {
+    color: #aaa;
+    background: #222;
+}
+#reply-control {
+    background-color: #222;
+}
+.d-editor-button-bar {
+    border-bottom: 1px solid #292929;
+}
+.d-editor-textarea-wrapper {
+    background-color: #333;
+    border: 1px solid #292929;
+}
+select,
+textarea {
+    color: #aaa;
+}
+aside.onebox {
+    border: 5px solid #292929;
+}
+.open .grippie {
+    background: #111;
+}
+p > code,
+li > code,
+pre > code {
+    color: #fff;
+    background: #222;
+}
+.modal-inner-container {
+    background-color: #222;
+}
+.modal .modal-body label {
+    color: #fff;
+}
+}
+
+@-moz-document url-prefix("https://forum.appacademy.io/") {
+.badge-card {
+    background-color: #333;
+    border: 1px solid #222;
+}
+.badge-card .badge-contents .badge-info {
+    color: #aaa;
+}
+.btn[href] {
+    color: #aaa;
+}
+.category-list tbody .category h3 a[href] {
+    color: #fff;
+}
+.topic-list-main-link a.title,
+.topic-list .main-link a.title,
+.latest-topic-list-item .main-link a.title {
+    color: #ddd;
+}
+.badge-wrapper.bullet span.badge-category {
+    color: #999;
+}
+}
